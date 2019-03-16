@@ -9,7 +9,7 @@ in conjuction it may also perform one or more task:
 
 system calculations of network, data and/or like objects;;
 
-allocate system, power, or like recources(networksm data and like objects);;
+allocate system, power, or like recources(networks, data and like objects);;
 
 unallocated recources are used to process functions(hashes for example)predercribed by the system;;
 
