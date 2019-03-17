@@ -1,5 +1,3 @@
-
-// Copyright (c) 2013 Tom Catalano
 // Copyright (c) 2019 altusnets
 // Distributed under the MIT software license, see the acompanying
 // file COPYING or http://www.opensource.org/licenses/mit-licenses/mit-license.php.
@@ -8,6 +6,12 @@
 
 // a interface for managing, including and not limited to(data, network traffic, resources, tasks, process's and like objects)
 
+// 
+
+
+
+
+// including the libblklink features:
 
 a p2p like open or closed connected networked systems(hardware and/or software) 
 that combines and not limited to and from a input or output source(for example IoT, 
