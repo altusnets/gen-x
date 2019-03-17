@@ -21,5 +21,31 @@ typedef
 tyoedef
 typedef
 typedef
+typede
+typedef  l
+typrdef
+typedef
+typedef
+typedef
+  
+typedef
+typedef
+typedef
+typedef
 
+/*
+* 
+* 
+*
+*
+*
+*/
+  
+#define blklink_linkheader_size ()
+#define blklink_linkprocess_size ()
+#define blklink_peer_size_minimum ()
+#define blklink_peer_size_limit ()
+  
+
+  
   
