@@ -1,7 +1,3 @@
-// Copyright (c) 2019 Tom Catalano
-
-// Distributed under the MIT software license, see the acompanying
-// file COPYING or http://www.opensource.org/licenses/mit-licenses/mit-license.php.
 
 // about libblklink-main 
 
