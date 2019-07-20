@@ -14,5 +14,4 @@ securly allocate compute, power, or like recources(networks, data and like objec
 
 unallocated recources are used to process functions in a secure manner(hashes for example)predescribed by the system and/or group;;
 
-return a value that calculates return yield of energy concpumtion of entire system based on(
-all avaliable data / time *function = n ) for a return of x for used process's;;
+return a value that calculates return yield of energy consumption of entire system resources;;
