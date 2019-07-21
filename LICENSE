@@ -182,7 +182,7 @@
   10. Interface(s) for managing, including and not limited to;
       (data, network traffic, resources, tasks, process's &/or like objects.
 
-      p2p connected networked system(s) ie. hardware &/or software,
+      p2p connected network &/or networked system(s) ie. hardware &/or software,
       that combines and not limited to and from a input or output source
       (ie. IoT, internet and not limited to unknown transmissions 
       that are not yet classified.) All its data can be used or logged by a median or mechanism
@@ -190,12 +190,17 @@
       combined operations in conjuction with its task(s).
       
       Perform one or more task(s), secure system calculations on network, data &/or like objects with 
-      managment of all systems and process's.
+      managment of all system and process(s). To calculate (n)function(s) for return on compute power.
 
-      Securly allocate compute power &/or recources(networks, data and like objects)for parrallel and                   concurrent task scheduling. Unallocated recources are used to process functions in a secure manner 
-      (hashes for example)predescribed by the system and/or group. return a value that calculates return
-      yield of  energy consumption to entire system resource(s).
-
+      Securly allocate compute power &/or recource(s),(ie. networks, data and like objects)for parrallel 
+      and concurrent task scheduling. Unallocated recources are used to process functions in a secure manner 
+      (hashes for example)predescribed by the system(s). 
+      Return a value that calculates return yield of  energy consumption to entire system resource(s).
+      
+  11. Apparatus to securily transfer bit equivalent value.
+      Apparatus to store bit equivalent value to transfer as 
+      currencies &/or all approved payment methods.
+   
    END OF TERMS AND CONDITIONS
 
    APPENDIX: How to apply the Apache License to your work.
