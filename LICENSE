@@ -175,10 +175,10 @@
       incurred by, or claims asserted against, such Contributor by reason
       of your accepting any such warranty or additional liability.
       
-  10. Interface(s) for managing, including and not limited to;
-      (data, network traffic, resources, tasks, process's &/or like objects.
+  10. Interface(s) for managing; including and not limited to,
+      (data, network traffic, resources, tasks, process(s) and/or like object(s).
 
-      p2p connected network &/or networked system(s) ie. hardware &/or software,
+      p2p connected network and/or networked system(s) ie. hardware and/or software,
       that combines and not limited to and from a input or output source
       (ie. IoT, internet and not limited to unknown transmissions 
       that are not yet classified.) All its data can be used or logged by a median or mechanism
@@ -193,9 +193,9 @@
       (ie. computational hashes)scheduled by the system(s). 
       Return a value that calculates return yield of  energy consumption to entire system resource(s).
       
-  11. Apparatus to include & not limited to hardware &/or software to securily transfer bit equivalent value.
-      Apparatus to include & not limited to hardware &/or software to store bit equivalent value to transfer as 
-      currencies and/or all approved payment methods.
+  11. Software and/or hardware to securily transfer, validate and store data/information.
+      (ie. RSS QR generator(s) and/or reader(s) embedded into a program and/or web application).
+      
    
    END OF TERMS AND CONDITIONS
 
