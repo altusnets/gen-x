@@ -180,6 +180,8 @@
   11. Software and/or hardware to securily transfer, validate and store data/information.
       (ie. RSD QR generator(s) and/or reader(s) write into a program and/or web application).
       
+  12. Algorithm of the same.
+      
    
    END OF TERMS AND CONDITIONS
 
@@ -194,7 +196,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright © Dr. Thomas Catalano
+   Copyright © Dr. Thomas Catalano, Ph.D
   
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
