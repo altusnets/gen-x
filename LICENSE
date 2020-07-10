@@ -173,15 +173,6 @@
       defend, and hold each Contributor harmless for any liability
       incurred by, or claims asserted against, such Contributor by reason
       of your accepting any such warranty or additional liability.
-      
-  10. Interface(s) for managing; including and not limited to,
-      (data, network traffic, resources, tasks, process(s) and/or like object(s).
-
-  11. Software and/or hardware to securily transfer, validate and store data/information.
-      (ie. RSD QR generator(s) and/or reader(s) write into a program and/or web application).
-      
-  12. All state(s) by and/or of algorithm.
-      
    
    END OF TERMS AND CONDITIONS
 
@@ -196,7 +187,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright © Dr. Thomas Catalano, Ph.D
+   Copyright © Dr. Thomas Catalano
   
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
