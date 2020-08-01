@@ -1,4 +1,4 @@
-city of the future;;
+buildings of the future;;
 
 // about genz-core
 
