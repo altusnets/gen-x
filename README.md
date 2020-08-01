@@ -1,3 +1,3 @@
-communication infrastructure of the future
+financial infrastructure of the future
 
  
