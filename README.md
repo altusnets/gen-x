@@ -1,3 +1,3 @@
-buildings of the future;;
+buildings of the future
 
  
