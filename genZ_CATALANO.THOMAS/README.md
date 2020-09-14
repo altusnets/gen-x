@@ -1,2 +1,2 @@
 #
-founder/owner; _CATALANO.THOMAS\. Dr.ThomasCatalano\.
+equastor/founder/owner; _CATALANO.THOMAS\. Dr.ThomasCatalano\.
