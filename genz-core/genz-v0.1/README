@@ -1,7 +1,8 @@
-// Copyright (c) 2013 Thomas Catalano's Intellectual Property
-// Distributed under the MIT software license, see the acompanying
-// file COPYING or http://www.opensource.org/licenses/mit-licenses/mit-license.php.
-
+ 
+*/* Distributed under the MIT software license, see the acompanying
+*/* file COPYING or http://www.opensource.org/licenses/mit-licenses/mit-license.php.
+Copyright (c) THOMAS CATALANO
+All rights reserved.
 // about genz-core
 
 // a interface for managing, including and not limited to(data, network traffic, resources, tasks, process's and linked objects)
