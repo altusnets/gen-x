@@ -484,7 +484,9 @@ Copyright (c) */* vector(*)(ie. -izing) */* plot(*)(ie. -ting) */* graph(*)(ie. 
 
 Copyright (c) */* Screen Actors Guild | American Federation of Television and Radio Artists */* */* (SAG-AFTRA) */* */* _holdings */*  */GROUP/UNION/CORPORATION/SYSTEM/TENDER/* */\.
 
-Copyright (c) */* Royal Society */* */* "The Royal Society" */* The Royal Society of London for Improving Natural Knowledge */* */* _holdings_*/* */FELLOWS/GROUP/SYSTEM/* */\.
+Copyright (c) */* Royal Society */* */* "The Royal Society" */* The Royal Society of London for Improving Natural Knowledge */* */* _holdings_*/* */FELLOWS/SOCIETY/GROUP/SYSTEM/TENDER/* */\.
+
+Copyright (c) */* Shriners International */* "Ancient Arabic Order" */* */* _holdings_ */* */GROUP/SOCIETY/ORDER/SYSTEM/TENDER/* */\.
 
 All rights reserved.    
 
