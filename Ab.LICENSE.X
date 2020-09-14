@@ -497,6 +497,28 @@ Copyright (c) */* Goldman Sachs, Rockefellers, Lehmans and Kuhn Loebs of New Yor
 
 Copyright (c) */* Federal Reserve System */* Federal Reserve Bank */* */* _holdings_ */* */SYSTEM/GROUP/CORPORATION/UNION/TENDER/SOCALITY/* */\.
 
+Copyright (c) */* The Presidency of the United States of America */* */* _(_US_)_ */* */* _holdings_ */* */* _service(s) */* */GOVERNANCE/STATE/SYSTEM/GROUP/TENDER/* */\.
+
+Copyright (c) */* Federal Election Board/Commission */* (FEC) */* */* _holdings_ */* */* _service(s) */* */Committee/Commission/GROUP/SYSTEM/STATE/TENDER/* */\.
+
+Copyright (c) */* */Federal/* */* */* Food and Drug Administration */* */* _(_FDA_)_ */* */* _holdings_ */* */* _service(s) */* */GROUP/SYSTEM/GOVERNANCE/STATE/TENDER/* */\.
+
+Copyright (c) */* benovolent_dating/sex/social_sorbay */* */* "dating/sex/social" */* */* _holdings_ */* */* _service(s) */* */STATE/TENDER/SYSTEM/GROUP/CORPORATION/GOVERNANCE/* */\.
+
+Copyright (c) */* Corporeal Inauguration */* "judicating/medicating; indictment & extermination; people', place', thing'," */* _holdings_ */* */* _service(s) */* */STATE/SYSTEM/SERIES/TENDER/* */\.
+
+Copyright (c) */* Law Enforcement/Penetration */* */* "law & order" */* */* _holdings_ */* */* _service(s) */* */INSTITUTION/SERVICE/GROUP/UNION/GOVERNANCE/STATE/* */\.
+
+Copyright (c) */* US Department of Defense */* */* Department of Defense */* */* _(_DOD_)_ */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/STATE/UNION/GROUP/SERIES/* */\. 
+
+Copyright (c) */* US Department of Justice */* */* Department of Justice */* */* _(_DOJ_)_ */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/UNION/SERIES/STATE/I */\.
+
+Copyright (c) */* Human Brain Project */* */* _holdings_ */* */* _service */* */GROUP/ENTITIE/SERVICES/I */\.
+
+Copyright (c) */* European Union */* */* _(_EU_)_ */* */* _holdings_ */* */* _entity_ */* */* _service */* */STATE/UNION/GOVERNANCE/TENDER/* */\.
+
+Copyright (c) */* Asia Group */* */* _(_TAG_)_ */* */* _holdings_ */* */* _service */* */GROUP/ENTITIES/STATE/UNION/* */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
